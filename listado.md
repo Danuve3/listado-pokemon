@@ -9,3 +9,6 @@
 007. Squirtle
 008. Wartortle
 009. Blastoise
+010. Caterpie
+011. Metapod
+012. Butterfree
