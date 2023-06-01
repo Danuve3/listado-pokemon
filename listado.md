@@ -12,3 +12,9 @@
 010. Caterpie
 011. Metapod
 012. Butterfree
+013. Weedle
+014. Kakuna
+015. Beedrill
+016. Pidgey
+017. Pidgeotto
+018. Pidgeot
